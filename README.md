@@ -81,7 +81,7 @@ The "Save Your Archive: BlackLives" project offers a compelling model for revita
 
 ---
 
-### Preferred Presentation Format: [Indicate here: Online or In-person]
+### Preferred Presentation Format: [TBD]
 
 ---
 
