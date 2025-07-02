@@ -1,7 +1,7 @@
 ## PROPOSAL FOR THINKING THROUGH SOUND CONFERENCE
 
-**Abstract**
-Overview This paper details the "Save Your Archive: BlackLives" art installation series, outlining a technical approach to preserving and providing innovative, experientially-driven access to vulnerable Black British and diasporic audiovisual archives, thereby inviting audiences to "think through sound."
+**Overview**
+This paper details the "Save Your Archive: BlackLives" art installation series, outlining a technical approach to preserving and providing innovative, experientially-driven access to vulnerable Black British and diasporic audiovisual archives, thereby inviting audiences to "think through sound."
 
 **Keywords** #Audiovisual Archives; #Digital Preservation; #Black British History; #Media Art Installation; #Retrieval-Augmented Generation (RAG); #Media Asset Management (MAM); #Single-Board Computers (SBCs); #DYI; #API Development; #Cultural Memory; #Sound Studies; #Audio Accessibility.
 
