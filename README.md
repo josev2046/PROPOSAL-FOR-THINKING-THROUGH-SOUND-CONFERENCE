@@ -78,7 +78,7 @@ It directly addresses the conference’s invitation to explore the “multiplici
 
 ## 6. Conclusion
 
-The "Save Your Archive: BlackLives" project offers a compelling model for revitalising critical components of Black British and diasporic history. Through the systematic application of preservation-grade digitisation, intelligent data management via RAG, and the deployment of innovative, SBC-driven time-based media installations, voices once at risk of being lost are now made accessible and active. This project not only safeguards invaluable historical assets but also pioneers new pathways for public interaction with archives, profoundly enriching contemporary discourse and long-term cultural memory by inviting us all to truly think through sound.
+The "Save Your Archive: BlackLives" project offers a compelling model for revitalising critical components of Black (British) history. Through the systematic application of preservation-grade digitisation, intelligent data management via RAG, and the deployment of innovative, SBC-driven time-based media installations, voices once at risk of being lost are now made accessible and active. This project not only safeguards invaluable historical assets but also pioneers new pathways for public interaction with archives, profoundly enriching contemporary discourse and long-term cultural memory by inviting us all to truly think through sound.
 
 ---
 
