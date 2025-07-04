@@ -74,7 +74,7 @@ These thematic insights underscore the critical importance of preserving and act
 
 ## 5. Project Significance and Contribution
 
-The "Save Your Archive: BlackLives" project has already made a significant contribution to digital humanities, archival studies, and sound studies. It provides a robust, replicable model for securing vulnerable audiovisual heritage and activating it for public scholarship and creative practice. By combining meticulous digitisation with advanced discovery systems (MAM, RAG) and innovative experiential installations (SBCs, API-driven playback), the BLUES project now moves beyond passive archiving into dynamic engagement.
+The "Save Your Archive: BlackLives" project has already made a significant contribution to digital humanities, archival and audio-visual studies. It provides a robust, replicable model for securing vulnerable audiovisual heritage and activating it for public scholarship and creative practice. By combining meticulous digitisation with advanced discovery systems (MAM, RAG) and innovative experiential installations (SBCs, API-driven playback), the BLUES project now moves beyond passive archiving into dynamic engagement.
 
 It directly addresses the conference’s invitation to explore the “multiplicity of sound—as medium, metaphor, method, and memory.” Sound serves as the *medium* of the original recordings, a *metaphor* for unheard voices, a *method* for both technical processing and experiential engagement, and a vessel for *memory* and identity formation. This initiative demonstrates how sound can fundamentally shape our methodologies, allowing researchers and the public alike to “think through sound” to reveal archives of resistances and contribute to a more inclusive historical narrative.
 
