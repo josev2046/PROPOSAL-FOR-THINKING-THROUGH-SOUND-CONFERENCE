@@ -1,4 +1,4 @@
-# [DRAFT July 4th 2025] Thinking Through Sound: Activating Archives Through Experiential Installations
+# [DRAFT July 4th 2025] BLUES: Activating Archives Through Experiential Installations 
 
 **Authors:**
 Dr. David Dunkley Gyimah, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture; 
