@@ -1,4 +1,4 @@
-# [DRAFT July 4th 2025] Thinking Through Sound: Activating Black British and Diasporic Audiovisual Archives Through Experiential Installation
+# [DRAFT July 4th 2025] Thinking Through Sound: Activating Archives Through Experiential Installations
 
 **Authors:**
 Dr. David Dunkley Gyimah, Reader/Associate Professor, Cardiff School of Journalism, Media and Culture; 
