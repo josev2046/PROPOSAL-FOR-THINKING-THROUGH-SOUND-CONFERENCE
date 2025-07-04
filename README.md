@@ -26,7 +26,7 @@ Access is now further improved by a modular exhibition design, which seamlessly 
 The project thereby highlights sound's potent role in research, revealing histories, shaping identity, and contributing to interdisciplinary research methodologies through its sonic dimensions.
 
 
-**Keywords:** Audiovisual Archives, Digital Preservation, Black British History, Media Art Installation, Retrieval-Augmented Generation (RAG), Media Asset Management (MAM), Single-Board Computers (SBCs), DIY, API Development, Cultural Memory, Sound Studies, Audio Accessibility.
+**Keywords:** #BLUES, #Audiovisual Archives, #Digital Preservation, #Black British History, #Media Art Installation, #Retrieval-Augmented Generation (RAG), #Media Asset Management (MAM), #Single-Board Computers (SBCs), #DIY, #API Development, #Cultural Memory, #Sound Studies, #Audio Accessibility.
 
 ---
 
