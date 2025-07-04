@@ -10,7 +10,7 @@ José Velázquez, MA, Archivist and Multimedia Producer, University of Pablo de 
 
 **Overview:**
 BLUES ("Black London's Untold Epic Stories") is an art installation series offering an immersive, audio-driven experience of the early 1990s. 
-This initiative presents a multifaceted approach. It highlights the profound, emotional value of different voices, explores advanced technical procedures for accessibility via Retrieval-Augmented Generation (RAG), and introduces an innovative model for accessing this content.
+This initiative presents a multifaceted approach. It highlights the profound, emotional value of different voices, explores advanced technical procedures for accessibility via Retrieval-Augmented Generation (RAG), and introduces an innovative model for accessing archive content.
 
 
 **Abstract:**
