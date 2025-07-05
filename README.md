@@ -15,7 +15,7 @@ This initiative presents a multifaceted approach. It highlights the profound, em
 
 **Abstract:**
 
-Our curatorial framework positions BLUES as an audio "TARDIS"—a conceptual time machine, inspired by the fictional time machine from Doctor Who—transporting listeners to the 1990s. This approach prioritises historical care, creative reclamation, and public access, serving as a pedagogical and political intervention that activates overlooked voices in public spaces.
+Our curatorial framework positions BLUES as an audio "TARDIS"—a conceptual time machine, inspired by the fictional time machine from Doctor Who—transporting listeners to the 1990s. This approach prioritises historical care, creative reclamation, and public access, serving as a pedagogical and political intervention that activates diverse voices in public spaces.
 
 As an innovative new model for content access, BLUES employs art installations to cultivate immersive listening experiences. These are enriched by content featuring conversations with international figures such as Fela Kuti, whose development of Afrobeat is explored as a device to counter soul music; Eartha Kitt, renowned for her commitment to activism; and personal reportage from Nelson Mandela's 70th Birthday Tribute concert at Wembley Stadium.
 
